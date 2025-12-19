@@ -1,8 +1,8 @@
-# Valnee Solutions — Innovative Software & AI Solutions
+# Valnee Solutions — Idea to Market at Insane Speed
 
 [![Website](https://img.shields.io/badge/Visit%20Us-Valnee.com-blue)](https://valnee.com)
 
-> **Custom-built digital solutions** designed to scale your business, enhance user experience, and automate your workflows.
+> **We will turn your Idea Into a Validation Ready MVP in Weeks** 
 
 ---
 
